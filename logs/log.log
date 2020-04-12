@@ -1,0 +1,152 @@
+2020-04-13 05:34:54.724 INFO --- [main] [com.CQA.RunApplication 21] : properties config injected.
+2020-04-13 05:34:55.157 WARN --- [main] [com.CQA.RunApplication 33] : 将要开始版本检测。请无视版本检测结束前所出现的错误日志，他们没有什么危害。
+2020-04-13 05:34:55.877 WARN --- [main] [com.CQA.RunApplication 33] : 当前核心版本: 1.11.0, 在1.11版本系列中存在更高级的版本1.11.2, 可以考虑切换核心版本。
+注意，核心替换需要保证前两个版本号位相相同：1.11
+你可以参考：
+参考一: https://mvnrepository.com/artifact/io.github.ForteScarlet/simple-robot-core/1.11.2
+参考二：https://search.maven.org/artifact/io.github.ForteScarlet/simple-robot-core/1.11.2/jar
+2020-04-13 05:34:56.096 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.qqrobot.depend.DependCenter, NAME='DependCenter'}
+2020-04-13 05:34:56.102 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.qqrobot.utils.CQCodeUtil, NAME='CQCodeUtil'}
+2020-04-13 05:34:56.105 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.component.forcoolqhttpapi.CoolQHttpApplication, NAME='CoolQHttpApplication'}
+2020-04-13 05:34:56.122 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.OnmyojSenderList, NAME='onmyojSenderList'}
+2020-04-13 05:34:56.122 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.morningSender, NAME='morningSender'}
+2020-04-13 05:34:56.124 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Intercept.MyMsgIntercept, NAME='myMsgIntercept'}
+2020-04-13 05:34:56.125 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.Onmyojguiwang, NAME='onmyojguiwang'}
+2020-04-13 05:34:56.125 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Bean.Groupable, NAME='groupable'}
+2020-04-13 05:34:56.125 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.PrivateListener, NAME='privateListener'}
+2020-04-13 05:34:56.125 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.Onmyojfengmo, NAME='onmyojfengmo'}
+2020-04-13 05:34:56.126 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.OnmyojfengmoEnd, NAME='onmyojfengmoEnd'}
+2020-04-13 05:34:56.126 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.OnmyojdaoguanFriToSun, NAME='onmyojdaoguanFriToSun'}
+2020-04-13 05:34:56.126 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.GroupListener, NAME='groupListener'}
+2020-04-13 05:34:56.127 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.Onmyojyinjiestart, NAME='onmyojyinjiestart'}
+2020-04-13 05:34:56.127 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.OnmyojyinjieEnd, NAME='onmyojyinjieEnd'}
+2020-04-13 05:34:56.165 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.component.forcoolqhttpapi.CoolQHttpConfiguration, NAME='coolQHttpConfiguration'}
+2020-04-13 05:34:56.168 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.qqrobot.BaseApplication$$Lambda$151/1424482154, NAME='baseApplication$$Lambda$151/1424482154'}
+2020-04-13 05:34:56.172 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.qqrobot.BaseConfiguration$$Lambda$152/1690101810, NAME='baseConfiguration$$Lambda$152/1690101810'}
+2020-04-13 05:34:56.176 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.qqrobot.bot.BotManagerImpl, NAME='botManagerImpl'}
+2020-04-13 05:34:56.190 INFO --- [main] [com.CQA.RunApplication 21] : 监听函数加载成功！[com.CQA.Listener.PrivateListener#groupstatus]
+2020-04-13 05:34:56.190 INFO --- [main] [com.CQA.RunApplication 21] : 监听函数加载成功！[com.CQA.Listener.PrivateListener#groupopen]
+2020-04-13 05:34:56.191 INFO --- [main] [com.CQA.RunApplication 21] : 监听函数加载成功！[com.CQA.Listener.PrivateListener#testListen1]
+2020-04-13 05:34:56.191 INFO --- [main] [com.CQA.RunApplication 21] : 监听函数加载成功！[com.CQA.Listener.PrivateListener#groupclose]
+2020-04-13 05:34:56.193 INFO --- [main] [com.CQA.RunApplication 21] : 监听函数加载成功！[com.CQA.Listener.GroupListener#helpListen]
+2020-04-13 05:34:56.194 INFO --- [main] [com.CQA.RunApplication 21] : 监听函数加载成功！[com.CQA.Listener.GroupListener#timeListener]
+2020-04-13 05:34:56.194 INFO --- [main] [com.CQA.RunApplication 21] : 监听函数加载成功！[com.CQA.Listener.GroupListener#suggestListen]
+2020-04-13 05:34:56.194 INFO --- [main] [com.CQA.RunApplication 21] : 监听函数加载成功！[com.CQA.Listener.GroupListener#signListen]
+2020-04-13 05:34:56.205 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.qqrobot.listener.invoker.ListenerManager, NAME='listenerManager'}
+2020-04-13 05:34:57.122 INFO --- [main] [com.CQA.RunApplication 21] : 账号[Avalon(2229181390)]注册成功！
+2020-04-13 05:34:57.122 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.qqrobot.BotRuntime, NAME='botRuntime'}
+2020-04-13 05:34:57.144 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.component.forcoolqhttpapi.server.CoolQHttpServer, NAME='CoolQHttpServer'}
+2020-04-13 05:34:57.144 INFO --- [main] [com.CQA.RunApplication 21] : 监听网址   ：http://[::]:15514/coolq
+2020-04-13 05:34:57.144 INFO --- [main] [com.CQA.RunApplication 21] : 系统名称: Windows 10
+2020-04-13 05:34:57.145 INFO --- [main] [com.CQA.RunApplication 21] : 系统版本: 10.0
+2020-04-13 05:34:57.145 INFO --- [main] [com.CQA.RunApplication 21] : 线程阻塞系数：[32m0.0[0m
+2020-04-13 05:34:57.145 INFO --- [main] [com.CQA.RunApplication 21] : 线程池核心大小：[32m6[0m
+2020-04-13 05:34:57.145 INFO --- [main] [com.CQA.RunApplication 21] : 线程池最大大小：[32m13[0m
+2020-04-13 05:34:57.145 INFO --- [main] [com.CQA.RunApplication 21] : 账号信息获取成功: 账号: [32m2229181390[0m, 昵称: [32mAvalon[0m, 等级: [32m29[0m
+2020-04-13 05:34:57.173 INFO --- [main] [org.quartz.impl.StdSchedulerFactory 1220] : Using default implementation for ThreadExecutor
+2020-04-13 05:34:57.176 INFO --- [main] [org.quartz.simpl.SimpleThreadPool 268] : Job execution threads will use class loader of thread: main
+2020-04-13 05:34:57.183 INFO --- [main] [org.quartz.core.SchedulerSignalerImpl 61] : Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2020-04-13 05:34:57.184 INFO --- [main] [org.quartz.core.QuartzScheduler 229] : Quartz Scheduler v.2.3.2 created.
+2020-04-13 05:34:57.184 INFO --- [main] [org.quartz.simpl.RAMJobStore 155] : RAMJobStore initialized.
+2020-04-13 05:34:57.185 INFO --- [main] [org.quartz.core.QuartzScheduler 294] : Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2020-04-13 05:34:57.185 INFO --- [main] [org.quartz.impl.StdSchedulerFactory 1374] : Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2020-04-13 05:34:57.185 INFO --- [main] [org.quartz.impl.StdSchedulerFactory 1378] : Quartz scheduler version: 2.3.2
+2020-04-13 05:34:57.185 INFO --- [main] [org.quartz.core.QuartzScheduler 547] : Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-13 05:34:57.193 INFO --- [main] [com.CQA.RunApplication 21] : 加载定时任务成功！[morningSender]
+2020-04-13 05:34:57.194 INFO --- [main] [org.quartz.core.QuartzScheduler 547] : Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-13 05:34:57.194 INFO --- [main] [com.CQA.RunApplication 21] : 加载定时任务成功！[Onmyojguiwang]
+2020-04-13 05:34:57.194 INFO --- [main] [org.quartz.core.QuartzScheduler 547] : Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-13 05:34:57.195 INFO --- [main] [com.CQA.RunApplication 21] : 加载定时任务成功！[Onmyojfengmo]
+2020-04-13 05:34:57.195 INFO --- [main] [org.quartz.core.QuartzScheduler 547] : Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-13 05:34:57.196 INFO --- [main] [com.CQA.RunApplication 21] : 加载定时任务成功！[OnmyojfengmoEnd]
+2020-04-13 05:34:57.196 INFO --- [main] [org.quartz.core.QuartzScheduler 547] : Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-13 05:34:57.196 INFO --- [main] [com.CQA.RunApplication 21] : 加载定时任务成功！[OnmyojdaoguanFriToSun]
+2020-04-13 05:34:57.196 INFO --- [main] [org.quartz.core.QuartzScheduler 547] : Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-13 05:34:57.197 INFO --- [main] [com.CQA.RunApplication 21] : 加载定时任务成功！[Onmyojyinjiestart]
+2020-04-13 05:34:57.197 INFO --- [main] [org.quartz.core.QuartzScheduler 547] : Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-13 05:34:57.198 INFO --- [main] [com.CQA.RunApplication 21] : 加载定时任务成功！[OnmyojyinjieEnd]
+2020-04-13 05:34:57.198 INFO --- [main] [org.quartz.core.QuartzScheduler 547] : Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-13 05:34:57.202 INFO --- [main] [com.CQA.RunApplication 21] : [36mCQ HTTP 组件监听服务器[0m启动成功, 耗时 2,556 ms
+2020-04-13 07:31:04.785 INFO --- [main] [com.CQA.RunApplication 21] : properties config injected.
+2020-04-13 07:31:05.104 WARN --- [main] [com.CQA.RunApplication 33] : 将要开始版本检测。请无视版本检测结束前所出现的错误日志，他们没有什么危害。
+2020-04-13 07:31:05.790 WARN --- [main] [com.CQA.RunApplication 33] : 当前核心版本: 1.11.0, 在1.11版本系列中存在更高级的版本1.11.2, 可以考虑切换核心版本。
+注意，核心替换需要保证前两个版本号位相相同：1.11
+你可以参考：
+参考一: https://mvnrepository.com/artifact/io.github.ForteScarlet/simple-robot-core/1.11.2
+参考二：https://search.maven.org/artifact/io.github.ForteScarlet/simple-robot-core/1.11.2/jar
+2020-04-13 07:31:05.858 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.qqrobot.depend.DependCenter, NAME='DependCenter'}
+2020-04-13 07:31:05.862 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.qqrobot.utils.CQCodeUtil, NAME='CQCodeUtil'}
+2020-04-13 07:31:05.865 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.component.forcoolqhttpapi.CoolQHttpApplication, NAME='CoolQHttpApplication'}
+2020-04-13 07:31:05.877 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.GroupListener, NAME='groupListener'}
+2020-04-13 07:31:05.877 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.Onmyojyinjiestart, NAME='onmyojyinjiestart'}
+2020-04-13 07:31:05.877 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.Onmyojguiwang, NAME='onmyojguiwang'}
+2020-04-13 07:31:05.879 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.PrivateListener, NAME='privateListener'}
+2020-04-13 07:31:05.880 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.Onmyojfengmo, NAME='onmyojfengmo'}
+2020-04-13 07:31:05.880 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.OnmyojSenderList, NAME='onmyojSenderList'}
+2020-04-13 07:31:05.880 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.OnmyojdaoguanFriToSun, NAME='onmyojdaoguanFriToSun'}
+2020-04-13 07:31:05.880 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.OnmyojyinjieEnd, NAME='onmyojyinjieEnd'}
+2020-04-13 07:31:05.881 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.morningSender, NAME='morningSender'}
+2020-04-13 07:31:05.881 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Intercept.MyMsgIntercept, NAME='myMsgIntercept'}
+2020-04-13 07:31:05.881 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.OnmyojfengmoEnd, NAME='onmyojfengmoEnd'}
+2020-04-13 07:31:05.881 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.CQA.Bean.Groupable, NAME='groupable'}
+2020-04-13 07:31:05.914 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.component.forcoolqhttpapi.CoolQHttpConfiguration, NAME='coolQHttpConfiguration'}
+2020-04-13 07:31:05.915 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.qqrobot.BaseApplication$$Lambda$151/330128595, NAME='baseApplication$$Lambda$151/330128595'}
+2020-04-13 07:31:05.916 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.qqrobot.BaseConfiguration$$Lambda$152/1703009290, NAME='baseConfiguration$$Lambda$152/1703009290'}
+2020-04-13 07:31:05.919 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.qqrobot.bot.BotManagerImpl, NAME='botManagerImpl'}
+2020-04-13 07:31:05.928 INFO --- [main] [com.CQA.RunApplication 21] : 监听函数加载成功！[com.CQA.Listener.GroupListener#signListen]
+2020-04-13 07:31:05.929 INFO --- [main] [com.CQA.RunApplication 21] : 监听函数加载成功！[com.CQA.Listener.GroupListener#timeListener]
+2020-04-13 07:31:05.929 INFO --- [main] [com.CQA.RunApplication 21] : 监听函数加载成功！[com.CQA.Listener.GroupListener#helpListen]
+2020-04-13 07:31:05.929 INFO --- [main] [com.CQA.RunApplication 21] : 监听函数加载成功！[com.CQA.Listener.GroupListener#suggestListen]
+2020-04-13 07:31:05.931 INFO --- [main] [com.CQA.RunApplication 21] : 监听函数加载成功！[com.CQA.Listener.PrivateListener#groupclose]
+2020-04-13 07:31:05.931 INFO --- [main] [com.CQA.RunApplication 21] : 监听函数加载成功！[com.CQA.Listener.PrivateListener#testListen1]
+2020-04-13 07:31:05.931 INFO --- [main] [com.CQA.RunApplication 21] : 监听函数加载成功！[com.CQA.Listener.PrivateListener#groupstatus]
+2020-04-13 07:31:05.931 INFO --- [main] [com.CQA.RunApplication 21] : 监听函数加载成功！[com.CQA.Listener.PrivateListener#groupopen]
+2020-04-13 07:31:05.942 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.qqrobot.listener.invoker.ListenerManager, NAME='listenerManager'}
+2020-04-13 07:31:06.813 INFO --- [main] [com.CQA.RunApplication 21] : 账号[Avalon(2229181390)]注册成功！
+2020-04-13 07:31:06.814 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.qqrobot.BotRuntime, NAME='botRuntime'}
+2020-04-13 07:31:06.829 INFO --- [main] [com.CQA.RunApplication 21] : 加载依赖 >> {TYPE=class com.forte.component.forcoolqhttpapi.server.CoolQHttpServer, NAME='CoolQHttpServer'}
+2020-04-13 07:31:06.829 INFO --- [main] [com.CQA.RunApplication 21] : 监听网址   ：http://[::]:15514/coolq
+2020-04-13 07:31:06.829 INFO --- [main] [com.CQA.RunApplication 21] : 系统名称: Windows 10
+2020-04-13 07:31:06.830 INFO --- [main] [com.CQA.RunApplication 21] : 系统版本: 10.0
+2020-04-13 07:31:06.830 INFO --- [main] [com.CQA.RunApplication 21] : 线程阻塞系数：[32m0.0[0m
+2020-04-13 07:31:06.830 INFO --- [main] [com.CQA.RunApplication 21] : 线程池核心大小：[32m6[0m
+2020-04-13 07:31:06.830 INFO --- [main] [com.CQA.RunApplication 21] : 线程池最大大小：[32m13[0m
+2020-04-13 07:31:06.830 INFO --- [main] [com.CQA.RunApplication 21] : 账号信息获取成功: 账号: [32m2229181390[0m, 昵称: [32mAvalon[0m, 等级: [32m29[0m
+2020-04-13 07:31:06.849 INFO --- [main] [org.quartz.impl.StdSchedulerFactory 1220] : Using default implementation for ThreadExecutor
+2020-04-13 07:31:06.851 INFO --- [main] [org.quartz.simpl.SimpleThreadPool 268] : Job execution threads will use class loader of thread: main
+2020-04-13 07:31:06.859 INFO --- [main] [org.quartz.core.SchedulerSignalerImpl 61] : Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2020-04-13 07:31:06.859 INFO --- [main] [org.quartz.core.QuartzScheduler 229] : Quartz Scheduler v.2.3.2 created.
+2020-04-13 07:31:06.859 INFO --- [main] [org.quartz.simpl.RAMJobStore 155] : RAMJobStore initialized.
+2020-04-13 07:31:06.860 INFO --- [main] [org.quartz.core.QuartzScheduler 294] : Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2020-04-13 07:31:06.860 INFO --- [main] [org.quartz.impl.StdSchedulerFactory 1374] : Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2020-04-13 07:31:06.860 INFO --- [main] [org.quartz.impl.StdSchedulerFactory 1378] : Quartz scheduler version: 2.3.2
+2020-04-13 07:31:06.860 INFO --- [main] [org.quartz.core.QuartzScheduler 547] : Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-13 07:31:06.866 INFO --- [main] [com.CQA.RunApplication 21] : 加载定时任务成功！[Onmyojyinjiestart]
+2020-04-13 07:31:06.866 INFO --- [main] [org.quartz.core.QuartzScheduler 547] : Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-13 07:31:06.867 INFO --- [main] [com.CQA.RunApplication 21] : 加载定时任务成功！[Onmyojguiwang]
+2020-04-13 07:31:06.867 INFO --- [main] [org.quartz.core.QuartzScheduler 547] : Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-13 07:31:06.867 INFO --- [main] [com.CQA.RunApplication 21] : 加载定时任务成功！[Onmyojfengmo]
+2020-04-13 07:31:06.868 INFO --- [main] [org.quartz.core.QuartzScheduler 547] : Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-13 07:31:06.868 INFO --- [main] [com.CQA.RunApplication 21] : 加载定时任务成功！[OnmyojdaoguanFriToSun]
+2020-04-13 07:31:06.868 INFO --- [main] [org.quartz.core.QuartzScheduler 547] : Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-13 07:31:06.869 INFO --- [main] [com.CQA.RunApplication 21] : 加载定时任务成功！[OnmyojyinjieEnd]
+2020-04-13 07:31:06.869 INFO --- [main] [org.quartz.core.QuartzScheduler 547] : Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-13 07:31:06.869 INFO --- [main] [com.CQA.RunApplication 21] : 加载定时任务成功！[morningSender]
+2020-04-13 07:31:06.870 INFO --- [main] [org.quartz.core.QuartzScheduler 547] : Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-13 07:31:06.870 INFO --- [main] [com.CQA.RunApplication 21] : 加载定时任务成功！[OnmyojfengmoEnd]
+2020-04-13 07:31:06.870 INFO --- [main] [org.quartz.core.QuartzScheduler 547] : Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-13 07:31:06.872 INFO --- [main] [com.CQA.RunApplication 21] : [36mCQ HTTP 组件监听服务器[0m启动成功, 耗时 2,124 ms

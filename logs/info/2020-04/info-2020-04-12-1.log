@@ -1,0 +1,10 @@
+2020-04-12 17:00:00.014 INFO [DefaultQuartzScheduler_Worker-5][RunApplication.java:21] - 每日逢魔提醒
+2020-04-12 17:00:00.699 INFO [DefaultQuartzScheduler_Worker-5][RunApplication.java:21] - 每周逢魔提醒完成
+2020-04-12 19:00:00.005 INFO [DefaultQuartzScheduler_Worker-6][RunApplication.java:21] - 每周阴界提醒
+2020-04-12 19:00:00.372 INFO [DefaultQuartzScheduler_Worker-6][RunApplication.java:21] - 每周阴界提醒完成
+2020-04-12 19:28:00.002 INFO [DefaultQuartzScheduler_Worker-7][RunApplication.java:21] - 每周五到周日道馆提醒
+2020-04-12 19:28:00.350 INFO [DefaultQuartzScheduler_Worker-7][RunApplication.java:21] - 每周五到周日道馆提醒完成
+2020-04-12 20:30:00.002 INFO [DefaultQuartzScheduler_Worker-8][RunApplication.java:21] - 每周阴界结束提醒
+2020-04-12 20:30:00.421 INFO [DefaultQuartzScheduler_Worker-8][RunApplication.java:21] - 每周阴界结束提醒完成
+2020-04-12 21:30:00.004 INFO [DefaultQuartzScheduler_Worker-9][RunApplication.java:21] - 每日逢魔结束提醒
+2020-04-12 21:30:00.395 INFO [DefaultQuartzScheduler_Worker-9][RunApplication.java:21] - 每周逢魔结束提醒完成

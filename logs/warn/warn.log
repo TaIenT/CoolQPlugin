@@ -1,0 +1,12 @@
+2020-04-13 05:34:55.157 WARN --- [main] [com.CQA.RunApplication 33] : 将要开始版本检测。请无视版本检测结束前所出现的错误日志，他们没有什么危害。
+2020-04-13 05:34:55.877 WARN --- [main] [com.CQA.RunApplication 33] : 当前核心版本: 1.11.0, 在1.11版本系列中存在更高级的版本1.11.2, 可以考虑切换核心版本。
+注意，核心替换需要保证前两个版本号位相相同：1.11
+你可以参考：
+参考一: https://mvnrepository.com/artifact/io.github.ForteScarlet/simple-robot-core/1.11.2
+参考二：https://search.maven.org/artifact/io.github.ForteScarlet/simple-robot-core/1.11.2/jar
+2020-04-13 07:31:05.104 WARN --- [main] [com.CQA.RunApplication 33] : 将要开始版本检测。请无视版本检测结束前所出现的错误日志，他们没有什么危害。
+2020-04-13 07:31:05.790 WARN --- [main] [com.CQA.RunApplication 33] : 当前核心版本: 1.11.0, 在1.11版本系列中存在更高级的版本1.11.2, 可以考虑切换核心版本。
+注意，核心替换需要保证前两个版本号位相相同：1.11
+你可以参考：
+参考一: https://mvnrepository.com/artifact/io.github.ForteScarlet/simple-robot-core/1.11.2
+参考二：https://search.maven.org/artifact/io.github.ForteScarlet/simple-robot-core/1.11.2/jar

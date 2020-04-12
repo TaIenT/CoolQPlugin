@@ -1,0 +1,156 @@
+2020-04-09 23:40:30.456 INFO [main][RunApplication.java:21] - properties config injected.
+2020-04-09 23:40:31.215 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.depend.DependCenter, NAME='DependCenter'}
+2020-04-09 23:40:31.221 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.utils.CQCodeUtil, NAME='CQCodeUtil'}
+2020-04-09 23:40:31.225 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.component.forcoolqhttpapi.CoolQHttpApplication, NAME='CoolQHttpApplication'}
+2020-04-09 23:40:31.239 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.CQA.Listener.GroupListener, NAME='groupListener'}
+2020-04-09 23:40:31.241 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.CQA.Listener.PrivateListener, NAME='privateListener'}
+2020-04-09 23:40:31.242 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.OnmyojSenderList, NAME='onmyojSenderList'}
+2020-04-09 23:40:31.242 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.CQA.Bean.Groupable, NAME='groupable'}
+2020-04-09 23:40:31.242 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.Onmyojguiwang, NAME='onmyojguiwang'}
+2020-04-09 23:40:31.243 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.CQA.Intercept.MyMsgIntercept, NAME='myMsgIntercept'}
+2020-04-09 23:40:31.274 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.component.forcoolqhttpapi.CoolQHttpConfiguration, NAME='coolQHttpConfiguration'}
+2020-04-09 23:40:31.276 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.BaseApplication$$Lambda$151/1260634890, NAME='baseApplication$$Lambda$151/1260634890'}
+2020-04-09 23:40:31.277 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.BaseConfiguration$$Lambda$152/1325465767, NAME='baseConfiguration$$Lambda$152/1325465767'}
+2020-04-09 23:40:31.280 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.bot.BotManagerImpl, NAME='botManagerImpl'}
+2020-04-09 23:40:31.290 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.GroupListener#signListen2]
+2020-04-09 23:40:31.290 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.GroupListener#suggestListen2]
+2020-04-09 23:40:31.290 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.GroupListener#helpListen2]
+2020-04-09 23:40:31.292 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.PrivateListener#testListen1]
+2020-04-09 23:40:31.292 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.PrivateListener#groupopen]
+2020-04-09 23:40:31.292 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.PrivateListener#groupstatus]
+2020-04-09 23:40:31.292 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.PrivateListener#groupclose]
+2020-04-09 23:40:31.305 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.listener.invoker.ListenerManager, NAME='listenerManager'}
+2020-04-09 23:40:32.323 INFO [main][RunApplication.java:21] - 账号[Avalon(2229181390)]注册成功！
+2020-04-09 23:40:32.324 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.BotRuntime, NAME='botRuntime'}
+2020-04-09 23:40:32.342 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.component.forcoolqhttpapi.server.CoolQHttpServer, NAME='CoolQHttpServer'}
+2020-04-09 23:40:32.342 INFO [main][RunApplication.java:21] - 监听网址   ：http://[::]:15514/coolq
+2020-04-09 23:40:32.343 INFO [main][RunApplication.java:21] - 系统名称: Windows 10
+2020-04-09 23:40:32.343 INFO [main][RunApplication.java:21] - 系统版本: 10.0
+2020-04-09 23:40:32.343 INFO [main][RunApplication.java:21] - 线程阻塞系数：[32m0.0[0m
+2020-04-09 23:40:32.343 INFO [main][RunApplication.java:21] - 线程池核心大小：[32m6[0m
+2020-04-09 23:40:32.343 INFO [main][RunApplication.java:21] - 线程池最大大小：[32m13[0m
+2020-04-09 23:40:32.343 INFO [main][RunApplication.java:21] - 账号信息获取成功: 账号: [32m2229181390[0m, 昵称: [32mAvalon[0m, 等级: [32m28[0m
+2020-04-09 23:40:32.364 INFO [main][StdSchedulerFactory.java:1220] - Using default implementation for ThreadExecutor
+2020-04-09 23:40:32.366 INFO [main][SimpleThreadPool.java:268] - Job execution threads will use class loader of thread: main
+2020-04-09 23:40:32.375 INFO [main][SchedulerSignalerImpl.java:61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2020-04-09 23:40:32.375 INFO [main][QuartzScheduler.java:229] - Quartz Scheduler v.2.3.2 created.
+2020-04-09 23:40:32.376 INFO [main][RAMJobStore.java:155] - RAMJobStore initialized.
+2020-04-09 23:40:32.376 INFO [main][QuartzScheduler.java:294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2020-04-09 23:40:32.377 INFO [main][StdSchedulerFactory.java:1374] - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2020-04-09 23:40:32.377 INFO [main][StdSchedulerFactory.java:1378] - Quartz scheduler version: 2.3.2
+2020-04-09 23:40:32.377 INFO [main][QuartzScheduler.java:547] - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-09 23:40:32.385 INFO [main][RunApplication.java:21] - 加载定时任务成功！[Onmyojguiwang]
+2020-04-09 23:40:32.385 INFO [main][QuartzScheduler.java:547] - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-09 23:40:32.387 INFO [main][RunApplication.java:21] - [36mCQ HTTP 组件监听服务器[0m启动成功, 耗时 1,982 ms
+2020-04-09 23:40:49.857 INFO [main][RunApplication.java:21] - properties config injected.
+2020-04-09 23:40:50.672 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.depend.DependCenter, NAME='DependCenter'}
+2020-04-09 23:40:50.676 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.utils.CQCodeUtil, NAME='CQCodeUtil'}
+2020-04-09 23:40:50.680 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.component.forcoolqhttpapi.CoolQHttpApplication, NAME='CoolQHttpApplication'}
+2020-04-09 23:40:50.694 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.CQA.Listener.GroupListener, NAME='groupListener'}
+2020-04-09 23:40:50.696 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.CQA.Listener.PrivateListener, NAME='privateListener'}
+2020-04-09 23:40:50.697 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.OnmyojSenderList, NAME='onmyojSenderList'}
+2020-04-09 23:40:50.698 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.CQA.Bean.Groupable, NAME='groupable'}
+2020-04-09 23:40:50.698 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.Onmyojguiwang, NAME='onmyojguiwang'}
+2020-04-09 23:40:50.699 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.CQA.Intercept.MyMsgIntercept, NAME='myMsgIntercept'}
+2020-04-09 23:40:50.735 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.component.forcoolqhttpapi.CoolQHttpConfiguration, NAME='coolQHttpConfiguration'}
+2020-04-09 23:40:50.738 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.BaseApplication$$Lambda$151/1260634890, NAME='baseApplication$$Lambda$151/1260634890'}
+2020-04-09 23:40:50.739 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.BaseConfiguration$$Lambda$152/1325465767, NAME='baseConfiguration$$Lambda$152/1325465767'}
+2020-04-09 23:40:50.742 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.bot.BotManagerImpl, NAME='botManagerImpl'}
+2020-04-09 23:40:50.753 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.GroupListener#suggestListen2]
+2020-04-09 23:40:50.754 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.GroupListener#helpListen2]
+2020-04-09 23:40:50.754 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.GroupListener#signListen2]
+2020-04-09 23:40:50.755 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.PrivateListener#groupopen]
+2020-04-09 23:40:50.755 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.PrivateListener#testListen1]
+2020-04-09 23:40:50.755 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.PrivateListener#groupclose]
+2020-04-09 23:40:50.756 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.PrivateListener#groupstatus]
+2020-04-09 23:40:50.768 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.listener.invoker.ListenerManager, NAME='listenerManager'}
+2020-04-09 23:40:51.712 INFO [main][RunApplication.java:21] - 账号[Avalon(2229181390)]注册成功！
+2020-04-09 23:40:51.713 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.BotRuntime, NAME='botRuntime'}
+2020-04-09 23:40:51.727 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.component.forcoolqhttpapi.server.CoolQHttpServer, NAME='CoolQHttpServer'}
+2020-04-09 23:40:51.727 INFO [main][RunApplication.java:21] - 监听网址   ：http://[::]:15514/coolq
+2020-04-09 23:40:51.727 INFO [main][RunApplication.java:21] - 系统名称: Windows 10
+2020-04-09 23:40:51.727 INFO [main][RunApplication.java:21] - 系统版本: 10.0
+2020-04-09 23:40:51.728 INFO [main][RunApplication.java:21] - 线程阻塞系数：[32m0.0[0m
+2020-04-09 23:40:51.728 INFO [main][RunApplication.java:21] - 线程池核心大小：[32m6[0m
+2020-04-09 23:40:51.728 INFO [main][RunApplication.java:21] - 线程池最大大小：[32m13[0m
+2020-04-09 23:40:51.728 INFO [main][RunApplication.java:21] - 账号信息获取成功: 账号: [32m2229181390[0m, 昵称: [32mAvalon[0m, 等级: [32m28[0m
+2020-04-09 23:40:51.748 INFO [main][StdSchedulerFactory.java:1220] - Using default implementation for ThreadExecutor
+2020-04-09 23:40:51.751 INFO [main][SimpleThreadPool.java:268] - Job execution threads will use class loader of thread: main
+2020-04-09 23:40:51.760 INFO [main][SchedulerSignalerImpl.java:61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2020-04-09 23:40:51.760 INFO [main][QuartzScheduler.java:229] - Quartz Scheduler v.2.3.2 created.
+2020-04-09 23:40:51.761 INFO [main][RAMJobStore.java:155] - RAMJobStore initialized.
+2020-04-09 23:40:51.761 INFO [main][QuartzScheduler.java:294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2020-04-09 23:40:51.761 INFO [main][StdSchedulerFactory.java:1374] - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2020-04-09 23:40:51.762 INFO [main][StdSchedulerFactory.java:1378] - Quartz scheduler version: 2.3.2
+2020-04-09 23:40:51.762 INFO [main][QuartzScheduler.java:547] - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-09 23:40:51.769 INFO [main][RunApplication.java:21] - 加载定时任务成功！[Onmyojguiwang]
+2020-04-09 23:40:51.769 INFO [main][QuartzScheduler.java:547] - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-09 23:40:51.771 INFO [main][RunApplication.java:21] - [36mCQ HTTP 组件监听服务器[0m启动成功, 耗时 1,967 ms
+2020-04-09 23:42:00.005 INFO [DefaultQuartzScheduler_Worker-1][RunApplication.java:21] - 每周鬼王提醒
+2020-04-09 23:42:00.106 INFO [DefaultQuartzScheduler_Worker-1][RunApplication.java:21] - 每周鬼王提醒完成
+2020-04-09 23:43:28.849 INFO [main][RunApplication.java:21] - properties config injected.
+2020-04-09 23:43:29.585 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.depend.DependCenter, NAME='DependCenter'}
+2020-04-09 23:43:29.590 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.utils.CQCodeUtil, NAME='CQCodeUtil'}
+2020-04-09 23:43:29.594 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.component.forcoolqhttpapi.CoolQHttpApplication, NAME='CoolQHttpApplication'}
+2020-04-09 23:43:29.606 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.CQA.Listener.GroupListener, NAME='groupListener'}
+2020-04-09 23:43:29.609 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.CQA.Listener.PrivateListener, NAME='privateListener'}
+2020-04-09 23:43:29.609 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.OnmyojSenderList, NAME='onmyojSenderList'}
+2020-04-09 23:43:29.609 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.CQA.Bean.Groupable, NAME='groupable'}
+2020-04-09 23:43:29.610 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.CQA.Listener.OnmyoijiListener.Onmyojguiwang, NAME='onmyojguiwang'}
+2020-04-09 23:43:29.610 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.CQA.Intercept.MyMsgIntercept, NAME='myMsgIntercept'}
+2020-04-09 23:43:29.640 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.component.forcoolqhttpapi.CoolQHttpConfiguration, NAME='coolQHttpConfiguration'}
+2020-04-09 23:43:29.642 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.BaseApplication$$Lambda$151/1260634890, NAME='baseApplication$$Lambda$151/1260634890'}
+2020-04-09 23:43:29.643 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.BaseConfiguration$$Lambda$152/1325465767, NAME='baseConfiguration$$Lambda$152/1325465767'}
+2020-04-09 23:43:29.646 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.bot.BotManagerImpl, NAME='botManagerImpl'}
+2020-04-09 23:43:29.656 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.GroupListener#signListen2]
+2020-04-09 23:43:29.656 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.GroupListener#suggestListen2]
+2020-04-09 23:43:29.656 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.GroupListener#helpListen2]
+2020-04-09 23:43:29.658 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.PrivateListener#testListen1]
+2020-04-09 23:43:29.658 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.PrivateListener#groupstatus]
+2020-04-09 23:43:29.658 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.PrivateListener#groupopen]
+2020-04-09 23:43:29.658 INFO [main][RunApplication.java:21] - 监听函数加载成功！[com.CQA.Listener.PrivateListener#groupclose]
+2020-04-09 23:43:29.669 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.listener.invoker.ListenerManager, NAME='listenerManager'}
+2020-04-09 23:43:30.590 INFO [main][RunApplication.java:21] - 账号[Avalon(2229181390)]注册成功！
+2020-04-09 23:43:30.590 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.qqrobot.BotRuntime, NAME='botRuntime'}
+2020-04-09 23:43:30.603 INFO [main][RunApplication.java:21] - 加载依赖 >> {TYPE=class com.forte.component.forcoolqhttpapi.server.CoolQHttpServer, NAME='CoolQHttpServer'}
+2020-04-09 23:43:30.604 INFO [main][RunApplication.java:21] - 监听网址   ：http://[::]:15514/coolq
+2020-04-09 23:43:30.604 INFO [main][RunApplication.java:21] - 系统名称: Windows 10
+2020-04-09 23:43:30.604 INFO [main][RunApplication.java:21] - 系统版本: 10.0
+2020-04-09 23:43:30.604 INFO [main][RunApplication.java:21] - 线程阻塞系数：[32m0.0[0m
+2020-04-09 23:43:30.605 INFO [main][RunApplication.java:21] - 线程池核心大小：[32m6[0m
+2020-04-09 23:43:30.605 INFO [main][RunApplication.java:21] - 线程池最大大小：[32m13[0m
+2020-04-09 23:43:30.605 INFO [main][RunApplication.java:21] - 账号信息获取成功: 账号: [32m2229181390[0m, 昵称: [32mAvalon[0m, 等级: [32m28[0m
+2020-04-09 23:43:30.628 INFO [main][StdSchedulerFactory.java:1220] - Using default implementation for ThreadExecutor
+2020-04-09 23:43:30.630 INFO [main][SimpleThreadPool.java:268] - Job execution threads will use class loader of thread: main
+2020-04-09 23:43:30.637 INFO [main][SchedulerSignalerImpl.java:61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2020-04-09 23:43:30.638 INFO [main][QuartzScheduler.java:229] - Quartz Scheduler v.2.3.2 created.
+2020-04-09 23:43:30.638 INFO [main][RAMJobStore.java:155] - RAMJobStore initialized.
+2020-04-09 23:43:30.639 INFO [main][QuartzScheduler.java:294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2020-04-09 23:43:30.639 INFO [main][StdSchedulerFactory.java:1374] - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2020-04-09 23:43:30.639 INFO [main][StdSchedulerFactory.java:1378] - Quartz scheduler version: 2.3.2
+2020-04-09 23:43:30.639 INFO [main][QuartzScheduler.java:547] - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-09 23:43:30.645 INFO [main][RunApplication.java:21] - 加载定时任务成功！[Onmyojguiwang]
+2020-04-09 23:43:30.645 INFO [main][QuartzScheduler.java:547] - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2020-04-09 23:43:30.647 INFO [main][RunApplication.java:21] - [36mCQ HTTP 组件监听服务器[0m启动成功, 耗时 1,849 ms
+2020-04-09 23:44:00.005 INFO [DefaultQuartzScheduler_Worker-1][RunApplication.java:21] - 每周鬼王提醒

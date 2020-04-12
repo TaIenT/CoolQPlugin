@@ -1,0 +1,5 @@
+<root>
+    <item name='com.forte.qqrobot.anno.timetask.CronTask'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

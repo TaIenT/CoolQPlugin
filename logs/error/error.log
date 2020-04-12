@@ -1,0 +1,30 @@
+2020-04-09 23:44:00.097 ERROR --- [DefaultQuartzScheduler_Worker-1] [org.quartz.core.JobRunShell 211] : Job DEFAULT.job_Onmyojguiwang threw an unhandled Exception: 
+com.forte.qqrobot.exception.TimeTaskException: java.lang.IllegalArgumentException: Illegal pattern character 'e'
+	at com.forte.qqrobot.timetask.TimeJob.execute(TimeJob.java:53) ~[simple-robot-core-1.11.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+Caused by: java.lang.IllegalArgumentException: Illegal pattern character 'e'
+	at java.text.SimpleDateFormat.compile(SimpleDateFormat.java:826) ~[?:1.8.0_181]
+	at java.text.SimpleDateFormat.initialize(SimpleDateFormat.java:634) ~[?:1.8.0_181]
+	at java.text.SimpleDateFormat.<init>(SimpleDateFormat.java:605) ~[?:1.8.0_181]
+	at java.text.SimpleDateFormat.<init>(SimpleDateFormat.java:580) ~[?:1.8.0_181]
+	at com.CQA.Listener.OnmyoijiListener.Onmyojguiwang.execute(Onmyojguiwang.java:27) ~[classes/:?]
+	at com.forte.qqrobot.timetask.TimeJob.execute(TimeJob.java:51) ~[simple-robot-core-1.11.0.jar:?]
+	... 2 more
+2020-04-09 23:44:00.101 ERROR --- [DefaultQuartzScheduler_Worker-1] [org.quartz.core.ErrorLogger 2407] : Job (DEFAULT.job_Onmyojguiwang threw an exception.
+org.quartz.SchedulerException: Job threw an unhandled exception.
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:213) [quartz-2.3.2.jar:?]
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573) [quartz-2.3.2.jar:?]
+Caused by: com.forte.qqrobot.exception.TimeTaskException: java.lang.IllegalArgumentException: Illegal pattern character 'e'
+	at com.forte.qqrobot.timetask.TimeJob.execute(TimeJob.java:53) ~[simple-robot-core-1.11.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) ~[quartz-2.3.2.jar:?]
+	... 1 more
+Caused by: java.lang.IllegalArgumentException: Illegal pattern character 'e'
+	at java.text.SimpleDateFormat.compile(SimpleDateFormat.java:826) ~[?:1.8.0_181]
+	at java.text.SimpleDateFormat.initialize(SimpleDateFormat.java:634) ~[?:1.8.0_181]
+	at java.text.SimpleDateFormat.<init>(SimpleDateFormat.java:605) ~[?:1.8.0_181]
+	at java.text.SimpleDateFormat.<init>(SimpleDateFormat.java:580) ~[?:1.8.0_181]
+	at com.CQA.Listener.OnmyoijiListener.Onmyojguiwang.execute(Onmyojguiwang.java:27) ~[classes/:?]
+	at com.forte.qqrobot.timetask.TimeJob.execute(TimeJob.java:51) ~[simple-robot-core-1.11.0.jar:?]
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:202) ~[quartz-2.3.2.jar:?]
+	... 1 more
